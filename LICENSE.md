@@ -19,7 +19,7 @@ When using or referencing this work, please include:
 
 "Original work by Vipul Gaur (gaurvipul@gmail.com)
 Data Product Strategy & Enterprise Architecture Specialist
-Source: https://github.com/[username]/dataCatalogAssets
+Source: https://github.com/pksvv/dataCatalogAssets
 Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/"
 
 No additional restrictions — You may not apply legal terms or technological measures 
